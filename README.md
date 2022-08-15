@@ -5,5 +5,4 @@ I know that the code is not perfect, and there are plenty of moments, which I co
 
 Some description of code possibilities is in word file.
 
-For testing the program postman was used
-
+For testing the program postman was used.
