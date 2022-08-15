@@ -1,0 +1,51 @@
+[{
+    "title": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "releaseDate": "1994-09-22",
+    "duration": 142,
+    "availability": "available",
+    "mainActors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+    "ageCategory": "R",
+    "styleCategory": "Drama"
+  },
+  {
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+    "releaseDate": "1972-03-24",
+    "duration": 175,
+    "availability": "not available",
+    "mainActors": "Al Pacino, Marlon Brando, Robert de Niro, James Caan, Diane Keaton",
+    "ageCategory": "R",
+    "styleCategory": "Crime"
+  },
+  {
+    "title": "The Dark Knight",
+    "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+    "releaseDate": "2022-03-04",
+    "duration": 176,
+    "availability": "available",
+    "mainActors": "Robert Pattinson, Zoë Kravitz, Jeffrey Wright",
+    "ageCategory": "R",
+    "styleCategory": "Thriller"
+  },
+  {
+    "title": "Black Widow",
+    "description": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+    "releaseDate": "2021-08-29",
+    "duration": 133,
+    "availability": "available",
+    "mainActors": "Scarlett Johansson, David Harbour",
+    "ageCategory": "G",
+    "styleCategory": "Thriller"
+  },
+  {
+    "title": "Winnie-The-Pooh: Blood and Honey",
+    "description": "It follows Pooh and Piglet as they go on a rampage after Christopher Robin abandons them.",
+    "releaseDate": "2022-07-23",
+    "duration": 290,
+    "availability": "available",
+    "mainActors": "Natasha Tosini, Craig David Dowsett, Nikolai Leon",
+    "ageCategory": "R",
+    "styleCategory": "Horror"
+  }
+]
